@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" role="img" aria-label="Trekking">
+  <g transform="translate(8 6)">
+    <path d="M4 18l8-12 8 6 6-10 8 16" fill="none" stroke="#0f766e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="4" cy="18" r="4" fill="#f97316"/>
+    <circle cx="34" cy="18" r="4" fill="#0f172a"/>
+  </g>
+</svg>

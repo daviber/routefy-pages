@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" role="img" aria-label="Raduno">
+  <g transform="translate(8 4)">
+    <circle cx="14" cy="10" r="5" fill="#0f766e"/>
+    <circle cx="34" cy="10" r="5" fill="#0f766e"/>
+    <path d="M6 24c0-4 3.6-7 8-7h0c4.4 0 8 3 8 7" fill="none" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M26 24c0-4 3.6-7 8-7h0c4.4 0 8 3 8 7" fill="none" stroke="#0f172a" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="24" cy="6" r="3" fill="#f97316"/>
+  </g>
+</svg>

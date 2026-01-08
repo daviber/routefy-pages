@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="Routefy favicon">
+  <rect x="2" y="2" width="36" height="36" rx="10" fill="#0f172a"/>
+  <path d="M10 26 C16 20 22 16 30 12" fill="none" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="10" cy="26" r="4" fill="#f59e0b"/>
+  <circle cx="30" cy="12" r="3" fill="#22c55e"/>
+</svg>

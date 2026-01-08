@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="dawn" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ffb4a2"/>
+      <stop offset="1" stop-color="#ff6f61"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#219ebc"/>
+      <stop offset="1" stop-color="#126782"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#dawn)"/>
+  <rect y="280" width="800" height="220" fill="url(#sea)"/>
+  <path d="M0 330 C120 300 240 360 360 330 C480 300 600 360 720 330 L800 340 L800 500 L0 500 Z" fill="#0b4f6c"/>
+  <circle cx="160" cy="140" r="60" fill="#ffd166"/>
+  <text x="40" y="460" font-family="Arial, sans-serif" font-size="32" fill="#f8f9fa">Coastal Meetup</text>
+</svg>

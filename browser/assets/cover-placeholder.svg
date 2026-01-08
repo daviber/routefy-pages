@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="Cover placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <path d="M120 360 C260 260 420 240 680 160" fill="none" stroke="url(#road)" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="140" cy="360" r="18" fill="#f59e0b"/>
+  <circle cx="660" cy="160" r="12" fill="#22c55e"/>
+  <text x="60" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff" opacity="0.9">Routefy</text>
+  <text x="60" y="170" font-family="Arial, sans-serif" font-size="22" fill="#e2e8f0" opacity="0.85">Esperienze in evidenza</text>
+</svg>
